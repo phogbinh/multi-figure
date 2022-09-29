@@ -7,8 +7,8 @@
    viewBox="0 0 240 280"
    version="1.1"
    id="svg5"
-   sodipodi:docname="model_multicell.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="system_model.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -302,40 +302,76 @@
          r="68.791496" />
     </g>
     <g
-       id="embb_user"
-       transform="translate(-99.468747,82.270834)">
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         d="m 150.8125,63.499999 v 10.583333 h 6.61458 V 63.499999 Z"
-         id="embb_user_outer" />
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         d="m 152.13542,73.289583 h 3.96875"
-         id="embb_user_inner" />
+       id="embb_user_2"
+       transform="matrix(0.07349081,0,0,0.07349081,209.92919,176.14615)"
+       style="display:inline;stroke-width:0.993321;stroke-dasharray:none;paint-order:fill markers stroke"
+       inkscape:label="embb_user_2">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.993321;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+         id="dynamic_island-6"
+         width="27.19771"
+         height="8.0999603"
+         x="34.026146"
+         y="6.7034149"
+         ry="4.0499802"
+         transform="translate(-5.6696445e-7,1.3040179e-5)" />
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.08214;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="border-7"
+         width="93.286369"
+         height="192.61667"
+         x="156.33011"
+         y="0.26458648"
+         ry="16.195105"
+         transform="translate(-155.34831,1.3040179e-5)" />
     </g>
     <g
-       id="embb_user-7"
-       transform="translate(59.281253,116.16667)">
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         d="m 150.8125,63.499999 v 10.583333 h 6.61458 V 63.499999 Z"
-         id="embb_user_outer-3" />
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         d="m 152.13542,73.289583 h 3.96875"
-         id="embb_user_inner-0" />
+       id="embb_user_1"
+       transform="matrix(0.07349081,0,0,0.07349081,110.92489,133.95369)"
+       style="display:inline;stroke-width:0.993321;stroke-dasharray:none;paint-order:fill markers stroke"
+       inkscape:label="embb_user_1">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.993321;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+         id="dynamic_island-3"
+         width="27.19771"
+         height="8.0999603"
+         x="34.026146"
+         y="6.7034149"
+         ry="4.0499802"
+         transform="translate(-5.6696445e-7,1.3040179e-5)" />
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.08214;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="border-3"
+         width="93.286369"
+         height="192.61667"
+         x="156.33011"
+         y="0.26458648"
+         ry="16.195105"
+         transform="translate(-155.34831,1.3040179e-5)" />
     </g>
     <g
-       id="embb_user-8"
-       transform="translate(-39.6875,72.760418)">
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         d="m 150.8125,63.499999 v 10.583333 h 6.61458 V 63.499999 Z"
-         id="embb_user_outer-51" />
-      <path
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         d="m 152.13542,73.289583 h 3.96875"
-         id="embb_user_inner-16" />
+       id="embb_user_0"
+       transform="matrix(0.07349081,0,0,0.07349081,51.295956,142.54072)"
+       style="display:inline;stroke-width:0.993321;stroke-dasharray:none;paint-order:fill markers stroke"
+       inkscape:label="embb_user_0">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.993321;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+         id="dynamic_island"
+         width="27.19771"
+         height="8.0999603"
+         x="34.026146"
+         y="6.7034149"
+         ry="4.0499802"
+         transform="translate(-5.6696445e-7,1.3040179e-5)" />
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.08214307;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         id="border"
+         width="93.286369"
+         height="192.61667"
+         x="156.33011"
+         y="0.26458648"
+         ry="16.195105"
+         transform="translate(-155.34831,1.3040179e-5)" />
     </g>
     <g
        id="urllc_user_1"
@@ -404,7 +440,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-2)"
-       d="m 121.70833,79.375 -7.14375,55.82708"
+       d="m 121.70833,79.375 -7.18935,53.7063"
        id="urllc_traffic-3-0-4"
        sodipodi:nodetypes="cc" />
     <path
@@ -414,7 +450,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-0)"
-       d="M 74.083333,164.04167 110.33125,147.37292"
+       d="M 74.083333,164.04167 110.19443,147.39572"
        id="urllc_traffic-3-0-2"
        sodipodi:nodetypes="cc" />
     <path
@@ -424,7 +460,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-0-8)"
-       d="m 169.33333,164.04167 -50.8,-16.66875"
+       d="M 169.33333,164.04167 118.67016,147.32731"
        id="urllc_traffic-3-0-2-5"
        sodipodi:nodetypes="cc" />
     <text
