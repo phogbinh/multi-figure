@@ -26,9 +26,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="0.51276155"
-     inkscape:cx="313.01099"
-     inkscape:cy="696.23005"
+     inkscape:zoom="1.0255231"
+     inkscape:cx="575.8037"
+     inkscape:cy="594.81839"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -466,36 +466,36 @@
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       x="69.383881"
+       x="63.189941"
        y="188.88614"
        id="base_station_0_label"><tspan
          sodipodi:role="line"
          id="tspan8557-6-2"
          style="stroke-width:0"
-         x="69.383881"
-         y="188.88614">RRH 0</tspan></text>
+         x="63.189941"
+         y="188.88614">Base station 0</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       x="116.87297"
-       y="104.18072"
+       x="110.81494"
+       y="104.18847"
        id="base_station_1_label"><tspan
          sodipodi:role="line"
          id="tspan8557-6-2-0"
          style="stroke-width:0"
-         x="116.87297"
-         y="104.18072">RRH 1</tspan></text>
+         x="110.81494"
+         y="104.18847">Base station 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       x="164.52536"
-       y="188.91251"
+       x="158.69522"
+       y="188.8877"
        id="base_station_2_label"><tspan
          sodipodi:role="line"
          id="tspan8557-6-2-06"
          style="stroke-width:0"
-         x="164.52536"
-         y="188.91251">RRH 2</tspan></text>
+         x="158.69522"
+         y="188.8877">Base station 2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
