@@ -144,46 +144,6 @@
     </marker>
     <marker
        style="overflow:visible"
-       id="marker2697-7-2-2"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow1"
-       markerWidth="4.0606599"
-       markerHeight="6.7071061"
-       viewBox="0 0 4.0606602 6.7071068"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
-         d="M 3,-3 0,0 3,3"
-         id="path2695-4-9-9"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker2697-7-2-0-8"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow1"
-       markerWidth="4.0606599"
-       markerHeight="6.7071061"
-       viewBox="0 0 4.0606602 6.7071068"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
-         d="M 3,-3 0,0 3,3"
-         id="path2695-4-9-5-0"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc" />
-    </marker>
-    <marker
-       style="overflow:visible"
        id="marker2697-7-2-0-5"
        refX="0"
        refY="0"
@@ -426,43 +386,42 @@
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697)"
        d="m 121.70833,79.375 7.40834,-9.789583"
-       id="urllc_traffic"
+       id="urllc_user_1_link"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-3)"
+       d="m 169.33333,164.04167 -26.9875,24.60625"
+       id="urllc_user_0_link"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-8)"
        d="m 195.79167,58.208333 h 15.875"
        id="urllc_traffic-4"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:label="urllc_user_link" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-3)"
-       d="m 169.33333,164.04167 -26.9875,24.60625"
-       id="urllc_traffic-5"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-2)"
-       d="m 121.70833,79.375 -7.18935,53.7063"
-       id="urllc_traffic-3-0-4"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-2-8)"
-       d="m 195.79167,47.625 h 15.875"
-       id="urllc_traffic-3-0-4-0"
-       sodipodi:nodetypes="cc" />
+       style="fill:#000000;stroke:#0000ff;stroke-width:0.75;stroke-linejoin:miter;paint-order:normal;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#marker2697-7-2-0-5)"
+       d="m 169.33333,164.04166 39.6875,13.22917"
+       id="path1594"
+       inkscape:label="embb_user_2_link" />
     <path
        style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-0)"
        d="M 74.083333,164.04167 110.19443,147.39572"
        id="urllc_traffic-3-0-2"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:label="embb_user_1_link" />
     <path
        style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-0-5)"
        d="M 74.083333,164.04167 58.7375,156.89792"
        id="urllc_traffic-3-0-2-9"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:label="embb_user_0_link" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-0-8)"
-       d="M 169.33333,164.04167 118.67016,147.32731"
-       id="urllc_traffic-3-0-2-5"
-       sodipodi:nodetypes="cc" />
+       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2697-7-2-2-8)"
+       d="m 195.79167,47.625 h 15.875"
+       id="urllc_traffic-3-0-4-0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="embb_link" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
