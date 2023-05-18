@@ -6,3 +6,4 @@ cp ${SIMULATION_DIR}experiments_optimality/fairness.eps ./optimality_fairness.ep
 cp ${SIMULATION_DIR}experiments_optimality/sum_log_utility.eps ./optimality_sum_log_utility.eps
 cp ${SIMULATION_DIR}experiments_optimality/execution_time.eps ./optimality_execution_time.eps
 cp ${SIMULATION_DIR}experiments_optimality/punctured_costs.eps ./optimality_punctured_costs.eps
+cp ${SIMULATION_DIR}experiments_sparse/punctured_costs.eps ./sparse_punctured_costs.eps
