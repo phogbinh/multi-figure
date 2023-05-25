@@ -7,3 +7,4 @@ cp ${SIMULATION_DIR}experiments_casual/sum_log_utility.eps ./casual_sum_log_util
 cp ${SIMULATION_DIR}experiments_casual/execution_time.eps ./casual_execution_time.eps
 cp ${SIMULATION_DIR}experiments_casual/punctured_costs.eps ./casual_punctured_costs.eps
 cp ${SIMULATION_DIR}experiments_sparse/punctured_costs.eps ./sparse_punctured_costs.eps
+cp ${SIMULATION_DIR}experiments_superposition/utility.eps ./superposition_utility.eps
