@@ -9,6 +9,7 @@ cp ${SIMULATION_DIR}experiments_casual/total_average_rates.eps ./casual_total_av
 cp ${SIMULATION_DIR}experiments_casual/sum_log_utility.eps ./casual_sum_log_utility.eps
 cp ${SIMULATION_DIR}experiments_casual/execution_time.eps ./casual_execution_time.eps
 cp ${SIMULATION_DIR}experiments_casual/punctured_costs.eps ./casual_punctured_costs.eps
+cp ${SIMULATION_DIR}experiments_sparse/execution_time.eps ./sparse_execution_time.eps
 cp ${SIMULATION_DIR}experiments_sparse/punctured_costs.eps ./sparse_punctured_costs.eps
 cp ${SIMULATION_DIR}experiments_superposition/execution_time.eps ./superposition_execution_time.eps
 cp ${SIMULATION_DIR}experiments_superposition/utility.eps ./superposition_utility.eps
